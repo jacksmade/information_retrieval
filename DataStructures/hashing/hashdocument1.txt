@@ -1,0 +1,1 @@
+Hashing is the process of converting data into a fixed-size value, called a hash code, which represents the original data. This is often used in data structures like hash tables to enable fast data retrieval. A good hash function minimizes collisions, where different data inputs produce the same hash output. 

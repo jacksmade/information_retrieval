@@ -1,0 +1,1 @@
+Binary trees have several applications in computer science, including: Implementing binary search algorithms. Storing hierarchical data such as file systems. Facilitating efficient priority queues using binary heaps. Representing expressions in compilers and calculators. 
